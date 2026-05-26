@@ -1,6 +1,6 @@
 #  Vulnerability Scanner - Security Assessment Tool
 
-## Thiranex-Project-2 | Built by Nkul Suthar
+## Thiranex-Project-2 | Built by Nikul Suthar
 
 [![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://python.org)
 [![Security](https://img.shields.io/badge/Security-Professional-red.svg)](https://github.com)
