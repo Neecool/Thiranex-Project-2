@@ -25,7 +25,7 @@ A **professional vulnerability scanner** that detects security issues in web app
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/Thiranex-Project-2.git
+git clone https://github.com/Neecool/Thiranex-Project-2.git
 cd Thiranex-Project-2
 
 # Install dependencies (if any)
